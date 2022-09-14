@@ -1,4 +1,4 @@
-# uptimebot Haqq
+# Uptimerobot for Haqq
 Simple and fast monitoring get requests with notifications to email and phone
 
 
