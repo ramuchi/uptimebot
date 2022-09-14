@@ -17,9 +17,9 @@ Simple and fast monitoring get requests with notifications to email and phone
 7. Alert When - ```Keyword Not Exists```
 8. Select "Alert Contacts To Notify" - Specify where you want to receive notifications
 
-To receive notifications on your phone, install the mobile version of the app
+*To receive notifications on your phone, install the mobile version of the app*
 
-you can also set up notifications if you are in jail, to do this, you need.
+You can also set up notifications if you are in jail, to do this, you need.
 
 ```https://haqq.api.explorers.guru/api/validators/YOUR VALIDATOR ADDRESS```
 
